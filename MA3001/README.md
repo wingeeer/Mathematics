@@ -1,0 +1,1 @@
+A final project I wrote about the Banach-Tarski paradox. This was to complete the course MA3001 "Mathematical Seminar for Master Degree Students" which covers a topic selected by the students attending the given year. The subject for the course this year (2013) was "The foundations of mathematics".
