@@ -5,4 +5,4 @@ Course content:
 
 Here are selected exercises from the course showing some reasoning and LaTeX (ov2 & ov8) and some coding in MATLAB (ov4 & ov5).
 
-You will also find a summary of the course that I wrote.
+You will also find a summary of the course that I wrote as preparation for the exam (notes).
